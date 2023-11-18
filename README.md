@@ -1,2 +1,2 @@
 # MLfundementals
-Several notes and notebooks on fundemental topic in ML
+Several notes and notebooks on fundemental topics in ML
